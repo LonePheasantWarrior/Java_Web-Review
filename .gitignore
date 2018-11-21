@@ -1,3 +1,7 @@
 /.idea
 test/
-
+/.project
+*/.project
+*/.classpath
+*/.settings/
+*/target/
