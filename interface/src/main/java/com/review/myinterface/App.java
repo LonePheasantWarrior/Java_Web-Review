@@ -1,4 +1,4 @@
-package com.review.interface;
+package com.review.myinterface;
 
 /**
  * Hello world!
